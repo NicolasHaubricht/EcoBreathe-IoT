@@ -76,3 +76,5 @@ void reconnectMQTT() {
         }
     }
 }
+
+// Desenvolvido por Nicolas Haubricht Hainfellner
