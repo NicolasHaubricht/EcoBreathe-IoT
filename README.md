@@ -1,4 +1,4 @@
-# Projeto EcoBreathe - IoT para Monitoramento Ambiental
+# Projeto EcoBreathe | IoT
 
 O projeto **EcoBreathe** utiliza o ESP32 como dispositivo IoT para monitorar e analisar condições ambientais, como temperatura e umidade. Os dados coletados são transmitidos via protocolo MQTT para um broker, permitindo o acesso e a análise em tempo real. Máquina Virtual utilizada AWS.
 
