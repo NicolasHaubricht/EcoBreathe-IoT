@@ -73,4 +73,9 @@ O projeto utiliza um broker MQTT local. Substitua `SEU IP` no código pelo ender
 - Fiware Descomplicado foi utilizado nesse projeto.
 - Link: <a href='https://github.com/fabiocabrini/fiware'>Fiware Descomplicado</a>
 
+## 🌱 Outros Repositórios do Projeto EcoBreathe
+- Repositório WebSite: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Web-Site'>Link</a>
+- Repositório Dashboard: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Dashboard'>Link</a>
+- Repositório Dados Simulados: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Dados-Simulados'>Link</a>
+
 ### Desenvolvido por Nicolas Haubricht Hainfellner  
