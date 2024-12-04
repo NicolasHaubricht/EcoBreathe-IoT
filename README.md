@@ -16,6 +16,9 @@ O projeto **EcoBreathe** utiliza o ESP32 como dispositivo IoT para monitorar e a
 - **MQTT**: Protocolo para comunicação eficiente entre dispositivos IoT.
 - **Arduino IDE**: Ambiente de desenvolvimento utilizado para programar o ESP32.
 
+## ➕ Simulação Wokwi
+- Link: <a href='https://wokwi.com/projects/415723189766588417'>Simulação Wokwi</a>
+
 ## 🛜 Visualização Dados Históricos
 - A visualização dos dados históricos é feita por dashboards. Para entender melhor acesse o link abaixo.
 - Link: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Dashboard'>Repositório Dashboards</a>
